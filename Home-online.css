@@ -116,27 +116,27 @@ body{
 #footer{
     background-color: #F7941D;
     color: white;
-    padding: 8px 15px;
+    padding: 3px 10px;
     background-attachment: fixed;
 }
 #footer .thongtin{
     display: flex;
 }
 #footer .thongtin .trai{
-    width: 40%;
+    width: 50%;
 }
 #footer .thongtin .trai ul{
     display: flex;
 }
 #footer .thongtin .trai a{
     padding: 5px;
-    width: 30px;
+    width: 40px;
     height: 18px;
-    font-size: 20px;
+    font-size: 18px;
     margin-top: -3px;
 }
 #footer .thongtin .phai{
-    width: 70%;
+    width: 60%;
 }
 #footer .thongtin .phai ul{
    justify-content: flex-end;
